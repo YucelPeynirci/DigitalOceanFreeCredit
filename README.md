@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=bKaASXq__IA
 # DigitalOcean Benefits:
 
 - Solid-State Drives (SSD)
-- Kubernates
+- Kubernetes
 - Global Image Transfer
 - DNS Management
 - Private Networking
