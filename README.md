@@ -13,18 +13,18 @@ https://www.youtube.com/watch?v=bKaASXq__IA
 
 # DigitalOcean Benefits:
 
-# Solid-State Drives (SSD)
-# Kubernates
-# Global Image Transfer
-# DNS Management
-# Private Networking
-# 99.99% Uptime SLA
-# Floating IPs
-# Team Accounts
-# Multiple Datacenter Locations
-# Easily Scaling Through Versatile API
-# 1 Minute Provisioning
-# Tier-1 Bandwidth
-# KVM Virtualization
-# Simple Control Panel
-# Powerful Hex Core machines
+- Solid-State Drives (SSD)
+- Kubernates
+- Global Image Transfer
+- DNS Management
+- Private Networking
+- 99.99% Uptime SLA
+- Floating IPs
+- Team Accounts
+- Multiple Datacenter Locations
+- Easily Scaling Through Versatile API
+- 1 Minute Provisioning
+- Tier-1 Bandwidth
+- KVM Virtualization
+- Simple Control Panel
+- Powerful Hex Core machines
